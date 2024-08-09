@@ -2,10 +2,10 @@
 
 Some details about me:
 
-- 🇪🇸 Born, raised and living in Madrid, Spain
-- 💼 Working at Shopify. Previously Planview International
-- ⚛️ Typescript and React lover
-- ♿️ Accessibility advocate. Focused on this topic over the last 2 years
+- 🇪🇸 Born, raised and living in Madrid, Spain. Also lived in Sweden 5 years 
+- 💼 Working at Flowable. Previously Shopify, Planview
+- 👨🏻‍💻 Rails, Ruby, React & Typescript lover
+- ♿️ Accessibility advocate
 - 📈 Learning Finance and stock valuation through fundamental analysis
 - 📚 Book devourer
 - 🏛 History nerd

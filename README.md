@@ -4,8 +4,8 @@ Some details about me:
 
 - 🇪🇸 Born, raised and living in Madrid, Spain. Also lived in Sweden 5 years 
 - 💼 Working at Elastic. Previously Shopify, Planview
-- 👨🏻‍💻 Rails, Ruby, React & Typescript lover
+- 👨🏻‍💻 Rails, Ruby, React, Remix & Typescript lover
 - ♿️ Accessibility advocate
-- 📈 Learning Finance and stock valuation through fundamental analysis
+- 📈 Retail stock investor using Fundamental Analysis
 - 📚 Book devourer
 - 🏛 History nerd
